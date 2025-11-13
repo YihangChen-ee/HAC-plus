@@ -1,4 +1,4 @@
-# [ARXIV'25] HAC++
+# [TPAMI'25] HAC++
 Official Pytorch implementation of **HAC++: Towards 100X Compression of 3D Gaussian Splatting**.
 ## HAC++ is an enhanced compression method over [HAC](https://github.com/yihangchen-ee/hac/)!
 
